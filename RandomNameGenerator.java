@@ -11,6 +11,7 @@ public class RandomNameGenerator {
     public static void main(String[] args) {
         int birthYear_lowerBound = 1975;
         int birthYear_upperBound = 2015;
+        
         int iterations = 20;
 
         StringBuilder output = new StringBuilder();
